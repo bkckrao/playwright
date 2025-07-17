@@ -3,11 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>io.github.bkckrao</groupId>
-<<<<<<< HEAD
-	<artifactId>PlaywrightFramework</artifactId>
-=======
-	<artifactId>Playwright</artifactId>
->>>>>>> 9290d20a41a59ef9ad8726aabc6cfe342ceaf285
+	<artifactId>playwright</artifactId>
 	<!--<version>0.0.1-SNAPSHOT</version>-->
 	<version>1.0.1</version>
 
