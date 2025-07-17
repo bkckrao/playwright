@@ -22,7 +22,7 @@ public class WebBrowser extends BaseTest implements Browser{
 	
 	/**
 	 * Opens the browser provided in the properties file like Chrome, ff, IE. it will pick up the Chrome, if no value provided
-	 * @author (chk017) kaja ChennnakesavaRao Bachu
+	 * @author  kaja ChennnakesavaRao Bachu
 	 */
 	public void openBrowser() { 
 		System.out.println("Execution in BrowserStack : "+ booleanBrowserStack);
